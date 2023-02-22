@@ -1,4 +1,4 @@
-# Dataverse 展開ソリューションのご紹介
+# 政府相互運用性フレームワーク Dataverse 展開ソリューション
 デジタル庁が提供しているデータモデル「政府相互運用性フレームワーク（Government Interoperability Framework）」（以下、GIF）を、マイクロソフト社が提供している「Microsoft Dataverse」上に展開するためのテンプレートです。<br>
 Dataverse 上に展開したテンプレートは、独自拡張や取捨選択をして利用する事ができます。 <br>
 <br>
