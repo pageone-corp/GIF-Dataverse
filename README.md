@@ -1,5 +1,5 @@
 # Dataverse 展開ソリューションのご紹介
-デジタル庁が提供しているデータモデル「政府相互運用性フレームワーク（Government Interoperability Framework）」を、マイクロソフト社が提供している「Microsoft Dataverse」上に展開するためのテンプレートです。<br>
+デジタル庁が提供しているデータモデル「政府相互運用性フレームワーク（Government Interoperability Framework）」（以下、GIF）を、マイクロソフト社が提供している「Microsoft Dataverse」上に展開するためのテンプレートです。<br>
 Dataverse 上に展開したテンプレートは、独自拡張や取捨選択をして利用する事ができます。 <br>
 <br>
 ##### 政府相互運用性フレームワーク（GIF）｜デジタル庁
@@ -10,7 +10,7 @@ https://powerplatform.microsoft.com/ja-jp/dataverse/<br>
 <br>
 <br>
 ## Microsoft Power Platform の利用
-Dataverse 上に展開することで以下のMicrosoft Power Platform に含まれる以下の機能を利用が可能となり、性能を向上させることができます。<br>
+Dataverse 上に展開することで、登録したデータを使って Power Platform に含まれる以下の機能の利用が可能となります。<br>
 | アプリケーション  | 概要 |
 | ------------- | ------------- |
 | Power Apps  | 視覚的操作で実用的なアプリケーションを開発  |
